@@ -295,7 +295,7 @@ is provide the code and the tests.
 
 ### Jest
 
-The unit testing framework we are trying to day is called
+The unit testing framework we are trying today is called
 [Jest](https://facebook.github.io/jest/). It's created by Facebook and useful
 for all kinds of unit testing (especially testing React, which we will do in a
 later lesson).
